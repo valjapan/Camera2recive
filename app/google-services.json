@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "566170694574",
+    "firebase_url": "https://camera2-a0d9f.firebaseio.com",
+    "project_id": "camera2-a0d9f",
+    "storage_bucket": "camera2-a0d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566170694574:android:f2df30953b0280c5",
+        "android_client_info": {
+          "package_name": "com.valkyrie.nabeshimamac.camera2send"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566170694574-3s0l96omojnh5iop5pdd62h8833lebu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQ3nW17B4y2LU5E03xTp_V59-MHSvepM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566170694574:android:90068cfee1a9e066",
+        "android_client_info": {
+          "package_name": "com.valkyrie.nabeshimamac.camerarecive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566170694574-3s0l96omojnh5iop5pdd62h8833lebu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQ3nW17B4y2LU5E03xTp_V59-MHSvepM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
